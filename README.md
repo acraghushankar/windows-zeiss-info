@@ -1,4 +1,4 @@
-# windows-zeiss-info
+# windows--info
 https://learn.microsoft.com/en-us/vcpkg/get_started/get-started-vs?pivots=shell-powershell
 git clone https://github.com/microsoft/vcpkg.git
 cd vcpkg; .\bootstrap-vcpkg.bat
